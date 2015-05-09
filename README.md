@@ -1,7 +1,7 @@
 Results for the 2015 Scientific Python Survey
 ---------------------------------------------
 
-(this will be described in a soon-to-be-published blog post)
+This repository is a companion to [this blog post](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/).
 
 The results so far are contained in the ``results.json`` file in JSON format.
 This file will be updated as the results of the survey are processed and
