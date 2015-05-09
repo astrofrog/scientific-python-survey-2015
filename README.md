@@ -16,7 +16,7 @@ In version 1 (released 9th May 2015), each entry contains:
 * ``installations``: a list of dictionaries, where each dictionary
   corresponds to a single installation, which then gives the operating system
   and Python version (and in future, this will give the NumPy, SciPy, and
-  Matplotlib versions)
+  Matplotlib versions). The list gives the primary installation first.
 
 * ``why_not_python3``: a list of reasons as to why the respondent is not using Python 3 (if that is the case)
 
