@@ -29,6 +29,23 @@ added here.
 
 9 May 2015: Initial version
 
+9 May 2015: Updated to include fields of research parsed from the 'Other' field
+
+### Additional notes
+
+The following fields of research were not present from the original form but
+were parsed from the 'Other' field:
+
+* Computer Science
+* Mathematics
+* Neuroscience
+* Biology/Bioinformatics
+* Engineering
+* Machine Learning
+* Linguistics
+* Economics
+* Psychology
+
 
 
 
